@@ -25,12 +25,10 @@ QWidget {
   color: #ffffff;
 }
 
-/* Icon styling */
 QLabel[icon="true"] {
   padding: 4px 6px;
 }
 
-/* Widgets container */
 QHBoxLayout {
   padding: 0px;
   margin: 0px;
@@ -55,13 +53,4 @@ QHBoxLayout {
 .komorebi-workspaces .ws-btn:hover {
   color: #ffffff;
   background-color: #57598d;
-}
-.notifications {
-  font-size: 18px;
-  padding: 4px 8px;
-}
-
-.notifications QLabel {
-  font-size: 18px;
-  font-family: "MesloLGM Nerd Font Mono", monospace;
 }

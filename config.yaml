@@ -59,13 +59,10 @@ widgets:
   notifications:
     type: yasb.notifications.NotificationsWidget
     options:
-      label: "{icon}"
+      label: "\ueaa2"
       label_alt: '{count} notifications'
       hide_empty: true
       tooltip: false
-      icons:
-        new: "\ueaa2"
-        default: "\ueaa2"
       callbacks:
         on_left: toggle_notification
         on_right: do_nothing
