@@ -3544,3 +3544,16 @@ expected '<document start>', but found '<block mapping start>'
 expected '<document start>', but found '<block mapping start>'
   in "C:\Users\Velasquez\.config\yasb\config.yaml", line 5, column 1
 2026-07-16 11:13:45,605 [ERROR] [MainThread] [root/config.py:158]: User config file could not be loaded. Exiting Application.
+2026-07-16 11:14:01,125 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-07-16 11:14:01,126 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-07-16 11:14:01,126 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-07-16 11:14:01,745 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-07-16 11:14:01,829 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-07-16 11:14:02,272 [INFO] [MainThread] [root/bar_manager.py:103]: Starting WindowsNotificationEventListener...
+2026-07-16 11:14:02,272 [INFO] [MainThread] [root/bar_manager.py:103]: Starting KomorebiEventListener...
+2026-07-16 11:14:02,272 [INFO] [MainThread] [root/bar_manager.py:103]: Starting SystemEventListener...
+2026-07-16 11:14:02,274 [INFO] [Dummy-7] [root/event_listener.py:54]: Created named pipe yasb-bdce4701-8139-11f1-89e6-60452e21d96d
+2026-07-16 11:14:02,274 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\velasquez\.config\yasb
+2026-07-16 11:14:02,275 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-07-16 11:14:02,812 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-07-16 11:14:02,813 [INFO] [Dummy-7] [root/event_listener.py:147]: Komorebi connected to named pipe: yasb-bdce4701-8139-11f1-89e6-60452e21d96d
