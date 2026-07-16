@@ -413,3 +413,12 @@
 2026-07-16 14:39:54,824 [DEBUG] [Dummy-5] [root/event_listener.py:126]: Waiting for Komorebi to subscribe to named pipe yasb-800b3f84-8156-11f1-935b-60452e21d96d
 2026-07-16 14:39:54,842 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
 2026-07-16 14:39:54,968 [INFO] [Dummy-5] [root/event_listener.py:147]: Komorebi connected to named pipe: yasb-800b3f84-8156-11f1-935b-60452e21d96d
+2026-07-16 14:40:21,028 [DEBUG] [Thread-3] [root/watcher.py:90]: Config file modified: c:\users\velasquez\.config\yasb\config.yaml
+2026-07-16 14:40:21,037 [ERROR] [MainThread] [root/config.py:99]: The config file 'C:\Users\Velasquez\.config\yasb\config.yaml' contains validation errors. Please fix:
+widgets:
+  wifi:
+    str:
+    - Input should be a valid string
+    dict[str,any]:
+    - Input should be a valid dictionary
+
