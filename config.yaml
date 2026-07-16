@@ -43,5 +43,4 @@ widgets:
   clock:
     type: yasb.clock.ClockWidget
     options:
-      label: '{%I:%M %p}'
-      label_alt: '{%a, %d %b %I:%M %p}'
+      label: '{%a, %d %b %I:%M %p}'

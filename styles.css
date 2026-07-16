@@ -2,7 +2,7 @@
   color: #ffffff;
   background-color: lab(11.26% 0 0.5);
   font-family: "MesloLGM Nerd Font Mono", monospace;
-  font-size: 12px;
+  font-size: 14px;
   margin: 0px;
   padding: 0px;
 }
@@ -10,7 +10,7 @@
 .yasb_bar {
   background-color: lab(11.26% 0 0.5);
   border-bottom: 1px solid #333333;
-  padding: 4px 0px;
+  padding: 0px 0px;
 }
 
 QLabel {
