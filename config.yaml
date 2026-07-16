@@ -1,5 +1,7 @@
 tooltip:
   offset: 10
+  screens:
+    "*"
   blur_effect:
     enabled: true
     rounded_corners: true

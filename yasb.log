@@ -3623,3 +3623,15 @@ tooltip:
   - Input should be a valid dictionary or instance of TooltipBlurEffect
 
 2026-07-16 11:26:33,096 [ERROR] [MainThread] [root/config.py:158]: User config file could not be loaded. Exiting Application.
+2026-07-16 11:29:40,231 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-07-16 11:29:40,232 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-07-16 11:29:40,232 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-07-16 11:29:40,258 [ERROR] [MainThread] [root/config.py:99]: The config file 'C:\Users\Velasquez\.config\yasb\config.yaml' contains validation errors. Please fix:
+tooltip:
+  blur_effect:
+    rounded_corners:
+    - Extra inputs are not permitted
+    rounded_corners_type:
+    - Extra inputs are not permitted
+
+2026-07-16 11:29:40,259 [ERROR] [MainThread] [root/config.py:158]: User config file could not be loaded. Exiting Application.
