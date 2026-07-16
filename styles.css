@@ -35,3 +35,20 @@ QHBoxLayout {
   padding: 0px;
   margin: 0px;
 }
+.komorebi-workspaces .ws-btn {
+    color: #57598d;
+    border: none;
+    margin: 0 2px;
+    padding: 2px 4px;
+    outline: none;
+    font-weight: 600;
+    border-radius: 3px;
+}
+.komorebi-workspaces .ws-btn.populated {
+  color: #7a7cba;
+  background-color: #37375a;
+}
+.komorebi-workspaces .ws-btn.active {
+  color: #ffffff;
+  background-color: #57598d;
+}
