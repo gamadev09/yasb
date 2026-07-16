@@ -70,10 +70,10 @@ WifiWidget QLabel {
 }
 BatteryWidget QLabel {
   color: #ffffff;
-  font-size: 20px;
+  font-size: 18px;
   background-color: transparent;
   word-spacing: -5px;
-  padding: 4px 8px;
+  padding: 0 8 0 4px;
   margin: 0px;
 }
 VolumeWidget QLabel {
