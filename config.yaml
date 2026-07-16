@@ -1,7 +1,11 @@
+bars:
+  status_bar:
+    screens:
+      ['eDP-1']:
+        position: top
+        height: 30
 tooltip:
   offset: 10
-  screens:
-    "*"
   blur_effect:
     enabled: true
     rounded_corners: true
