@@ -56,11 +56,12 @@ widgets:
     type: yasb.clock.ClockWidget
     options:
       label: '{%a, %d %b %I:%M %p}'
+  wifi:
+    
   notifications:
     type: yasb.notifications.NotificationsWidget
     options:
-      label: "\ueaa2"
-      label_alt: '{count} notifications'
+      label: ""
       hide_empty: true
       tooltip: false
       callbacks:
