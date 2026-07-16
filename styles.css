@@ -58,12 +58,11 @@ QHBoxLayout {
 }
 .notifications {
   font-size: 18px;
-  padding: 4px 12px;
-  min-height: 28px;
+  padding: 4px 8px;
 }
 
 .notifications QLabel {
   font-size: 18px;
-  min-width: 28px;
-  min-height: 28px;
+  font-family: "MesloLGM Nerd Font Mono", monospace;
+  padding: 4px 8px;
 }
