@@ -23,6 +23,6 @@ bars:
       dark_mode: true
     widgets:
       left: []
-      center: 
+      center:
         - type: "clock"
       right: []
