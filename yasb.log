@@ -1,23 +1,109 @@
-2026-07-16 11:54:36,762 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
-2026-07-16 11:54:36,762 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
-2026-07-16 11:54:36,763 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
-2026-07-16 11:54:36,792 [WARNING] [MainThread] [deprecation/deprecation.py:136]: [DEPRECATED] BarBlurEffect: 'acrylic' - No longer supported and can be removed from the config.
-2026-07-16 11:54:36,792 [ERROR] [MainThread] [root/config.py:99]: The config file 'C:\Users\Velasquez\.config\yasb\config.yaml' contains validation errors. Please fix:
+2026-07-16 12:01:46,994 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-07-16 12:01:46,994 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-07-16 12:01:46,995 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-07-16 12:01:47,094 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\velasquez\.config\yasb
+2026-07-16 12:01:47,094 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-07-16 12:01:47,938 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-07-16 12:02:00,771 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-07-16 12:02:00,875 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-07-16 12:02:00,900 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-07-16 12:02:01,651 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-07-16 12:02:01,651 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-07-16 12:02:01,652 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-07-16 12:02:01,866 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\velasquez\.config\yasb
+2026-07-16 12:02:01,866 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-07-16 12:02:02,751 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-07-16 12:02:20,341 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-07-16 12:02:20,448 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-07-16 12:02:20,480 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-07-16 12:02:21,811 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-07-16 12:02:21,812 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-07-16 12:02:21,816 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-07-16 12:02:22,243 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\velasquez\.config\yasb
+2026-07-16 12:02:22,243 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-07-16 12:02:23,398 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-07-16 12:02:41,943 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-07-16 12:02:42,057 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-07-16 12:02:42,083 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-07-16 12:02:42,766 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-07-16 12:02:42,766 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-07-16 12:02:42,767 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-07-16 12:02:43,018 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\velasquez\.config\yasb
+2026-07-16 12:02:43,018 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-07-16 12:02:43,815 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-07-16 12:02:53,607 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-07-16 12:02:53,713 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-07-16 12:02:53,729 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-07-16 12:02:54,392 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-07-16 12:02:54,393 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-07-16 12:02:54,393 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-07-16 12:02:54,721 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\velasquez\.config\yasb
+2026-07-16 12:02:54,721 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-07-16 12:02:55,553 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-07-16 12:02:59,131 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-07-16 12:02:59,241 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-07-16 12:02:59,261 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-07-16 12:02:59,944 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-07-16 12:02:59,945 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-07-16 12:02:59,945 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-07-16 12:03:00,237 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\velasquez\.config\yasb
+2026-07-16 12:03:00,238 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-07-16 12:03:01,036 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-07-16 12:03:06,213 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-07-16 12:03:06,326 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-07-16 12:03:06,356 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-07-16 12:03:07,259 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-07-16 12:03:07,260 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-07-16 12:03:07,260 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-07-16 12:03:07,958 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\velasquez\.config\yasb
+2026-07-16 12:03:07,959 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-07-16 12:03:08,851 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-07-16 12:03:16,043 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-07-16 12:03:16,151 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-07-16 12:03:16,177 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-07-16 12:03:16,833 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-07-16 12:03:16,834 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-07-16 12:03:16,834 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-07-16 12:03:17,156 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\velasquez\.config\yasb
+2026-07-16 12:03:17,156 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-07-16 12:03:18,334 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-07-16 12:03:24,990 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-07-16 12:03:25,105 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-07-16 12:03:25,129 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-07-16 12:03:25,918 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-07-16 12:03:25,919 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-07-16 12:03:25,919 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-07-16 12:03:25,966 [WARNING] [MainThread] [root/widget_builder.py:39]: No widget config could be found for widget 'clock
+2026-07-16 12:03:26,116 [ERROR] [MainThread] [root/widget_builder.py:100]: Failed to add undefined widget(s)  - The widget "clock" is undefined.
+2026-07-16 12:03:27,329 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\velasquez\.config\yasb
+2026-07-16 12:03:27,329 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-07-16 12:03:27,412 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-07-16 12:03:37,565 [ERROR] [MainThread] [root/config.py:99]: The config file 'C:\Users\Velasquez\.config\yasb\config.yaml' contains validation errors. Please fix:
 bars:
   primary_bar:
-    blur_effect:
-      rounded_corners:
-      - Extra inputs are not permitted
-      rounded_corners_type:
-      - Extra inputs are not permitted
     widgets:
-      left:
-      - Input should be a valid list
       center:
       - Input should be a valid list
-      right:
-      - Input should be a valid list
-    offset:
-    - Extra inputs are not permitted
 
-2026-07-16 11:54:36,793 [ERROR] [MainThread] [root/config.py:158]: User config file could not be loaded. Exiting Application.
+2026-07-16 12:03:47,957 [ERROR] [MainThread] [root/config.py:99]: The config file 'C:\Users\Velasquez\.config\yasb\config.yaml' contains validation errors. Please fix:
+bars:
+  primary_bar:
+    widgets:
+      center:
+        0:
+        - Input should be a valid string
+
+2026-07-16 12:04:22,065 [INFO] [MainThread] [root/controller.py:21]: Reloading Application from tray...
+2026-07-16 12:04:22,174 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-07-16 12:04:22,932 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-07-16 12:04:22,932 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-07-16 12:04:22,933 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-07-16 12:04:22,960 [ERROR] [MainThread] [root/config.py:99]: The config file 'C:\Users\Velasquez\.config\yasb\config.yaml' contains validation errors. Please fix:
+bars:
+  primary_bar:
+    widgets:
+      center:
+        0:
+        - Input should be a valid string
+
+2026-07-16 12:04:22,962 [ERROR] [MainThread] [root/config.py:158]: User config file could not be loaded. Exiting Application.
