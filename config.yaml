@@ -114,12 +114,12 @@ widgets:
       separator: ' - '
       hide_empty: true
       callbacks:
-        on_left: toggle_media_menu
+        on_left: do_nothing
         on_middle: do_nothing
         on_right: do_nothing
       max_field_size:
-        label: 20
-        label_alt: 20
+        label: 30
+        label_alt: 30
       show_thumbnail: false
       controls_only: false
       controls_left: true
@@ -132,18 +132,6 @@ widgets:
         next_track: "\uE893"
         play: "\uE768"
         pause: "\uE769"
-      media_menu:
-        blur: true
-        round_corners: true
-        round_corners_type: normal
-        border_color: system
-        alignment: center
-        direction: down
-        thumbnail_corner_radius: 8
-        thumbnail_size: 0
-        max_title_size: 60
-        max_artist_size: 20
-        show_volume_slider: true
       scrolling_label:
         enabled: true
         style: bounce
