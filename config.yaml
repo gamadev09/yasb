@@ -21,14 +21,13 @@ bars:
     animation:
       {enabled: false, 
       duration: 500}
-    tooltip:
-      offset: 10
-      blur_effect:
-        enabled: true
-        acrylic: true
-        dark_mode: true
-        rounded_corners: true
-        rounded_corners_type: 5
+    offset: 10
+    blur_effect:
+      enabled: true
+      acrylic: true
+      dark_mode: true
+      rounded_corners: true
+      rounded_corners_type: 5
     widgets:
       left:
       center:
