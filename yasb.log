@@ -1,0 +1,28 @@
+2026-07-16 12:18:37,152 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-07-16 12:18:37,267 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-07-16 12:18:37,290 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-07-16 12:18:38,054 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-07-16 12:18:38,055 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-07-16 12:18:38,057 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-07-16 12:18:38,091 [INFO] [MainThread] [root/main.py:138]: Debug mode enabled.
+2026-07-16 12:18:38,094 [WARNING] [MainThread] [root/widget_builder.py:39]: No widget config could be found for widget 'active_windows
+2026-07-16 12:18:38,147 [DEBUG] [MainThread] [root/app_bar.py:137]: Bar primary_bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.0]
+2026-07-16 12:18:38,214 [ERROR] [MainThread] [root/widget_builder.py:100]: Failed to add undefined widget(s)  - The widget "active_windows" is undefined.
+2026-07-16 12:18:38,954 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\velasquez\.config\yasb
+2026-07-16 12:18:38,955 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-07-16 12:18:39,428 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-07-16 12:20:45,912 [DEBUG] [Thread-3] [root/watcher.py:90]: Config file modified: c:\users\velasquez\.config\yasb\config.yaml
+2026-07-16 12:20:45,923 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-07-16 12:20:46,029 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-07-16 12:20:46,029 [DEBUG] [MainThread] [cli_server/cli_server.py:210]: CLI server stopped
+2026-07-16 12:20:46,053 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-07-16 12:20:46,890 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-07-16 12:20:46,891 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-07-16 12:20:46,891 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-07-16 12:20:46,925 [INFO] [MainThread] [root/main.py:138]: Debug mode enabled.
+2026-07-16 12:20:47,356 [DEBUG] [MainThread] [root/app_bar.py:137]: Bar primary_bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.0]
+2026-07-16 12:20:47,471 [INFO] [MainThread] [root/bar_manager.py:103]: Starting SystemEventListener...
+2026-07-16 12:20:47,474 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\velasquez\.config\yasb
+2026-07-16 12:20:47,474 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-07-16 12:20:48,312 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-07-16 12:20:54,320 [DEBUG] [Thread-3] [root/watcher.py:84]: Stylesheet modified: c:\users\velasquez\.config\yasb\styles.css

@@ -1,3 +1,4 @@
+debug: true
 bars:
   primary_bar:
     enabled: true
@@ -23,7 +24,7 @@ bars:
       dark_mode: true
     widgets:
       left:
-      - active_windows
+      - active_window
       center: []
       right: []
 widgets:
