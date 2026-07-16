@@ -90,6 +90,13 @@ MicrophoneWidget QLabel {
   padding: 2 6 0 6px;
   margin: 0px;
 }
+BluetoothWidget QLabel {
+  color: #ffffff;
+  font-size: 18px;
+  background-color: transparent;
+  padding: 2 6 0 6px;
+  margin: 0px;
+}
 /* Media */
 .media-widget {
     padding: 0;

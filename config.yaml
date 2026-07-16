@@ -33,6 +33,7 @@ bars:
         - microphone
         - volume
         - wifi
+        - bluetooth
         - battery
         - notifications
 widgets:
@@ -78,6 +79,11 @@ widgets:
       label_alt: '{wifi_icon}'
       ethernet_label: '{wifi_icon}'
       ethernet_label_alt: '{wifi_icon}'
+  bluetooth:
+    type: yasb.bluetooth.BluetoothWidget
+    options:
+      label: '{icon}'
+      label_alt: '{icon}'
   battery:
     type: yasb.battery.BatteryWidget
     options:
