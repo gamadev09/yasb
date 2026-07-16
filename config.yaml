@@ -29,6 +29,9 @@ bars:
       center:
         - clock
       right:
+        - volume
+        - wifi
+        - battery
         - notifications
 widgets:
   komorebi_workspaces:
@@ -56,8 +59,30 @@ widgets:
     type: yasb.clock.ClockWidget
     options:
       label: '{%a, %d %b %I:%M %p}'
+  volume:
+    type: yasb.volume.VolumeWidget
+    options:
+      label: '{icon}'
+      label_alt: '{icon}'
   wifi:
-    
+    type: yasb.wifi.WifiWidget
+    options:
+      label: '{wifi_icon}'
+      label_alt: '{wifi_icon}'
+      ethernet_label: '{wifi_icon}'
+      ethernet_label_alt: '{wifi_icon}'
+  battery:
+    type: yasb.battery.BatteryWidget
+    options:
+      label: '{icon}'
+      label_alt: '{icon}'
+      status_icons:
+        icon_charging: ''
+        icon_critical: '󰂎'
+        icon_low: '󰁼'
+        icon_medium: '󰁾'
+        icon_high: '󰂀'
+        icon_full: '󰁹'
   notifications:
     type: yasb.notifications.NotificationsWidget
     options:
