@@ -28,7 +28,8 @@ bars:
       - active_window
       center:
       - clock
-      right: []
+      right:
+      - notifications
 widgets:
   komorebi_workspaces:
     type: komorebi.workspaces.WorkspaceWidget
@@ -55,3 +56,14 @@ widgets:
     type: yasb.clock.ClockWidget
     options:
       label: '{%a, %d %b %I:%M %p}'
+  notifications:
+    type: yasb.notifications.NotificationsWidget
+    options:
+      label: "\ueaa2"
+      label_alt: '{count} notifications'
+      hide_empty: true
+      tooltip: false
+      callbacks:
+        on_left: toggle_notification
+        on_right: do_nothing
+        on_middle: do_nothing

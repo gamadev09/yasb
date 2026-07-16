@@ -52,3 +52,7 @@ QHBoxLayout {
   color: #ffffff;
   background-color: #57598d;
 }
+.komorebi-workspaces .ws-btn:hover {
+  color: #ffffff;
+  background-color: #57598d;
+}
