@@ -25,7 +25,8 @@ bars:
     widgets:
       left:
       - active_window
-      center: []
+      center:
+      - clock
       right: []
 widgets:
   active_window:
@@ -39,3 +40,8 @@ widgets:
       max_length: 32
       max_length_ellipsis: '...'
       monitor_exclusive: false
+  clock:
+    type: yasb.clock.ClockWidget
+    options:
+      label: '{%I:%M %p}'
+      label_alt: '{%a, %d %b %I:%M %p}'
