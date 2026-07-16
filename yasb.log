@@ -1,0 +1,23 @@
+2026-07-16 11:54:36,762 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-07-16 11:54:36,762 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-07-16 11:54:36,763 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-07-16 11:54:36,792 [WARNING] [MainThread] [deprecation/deprecation.py:136]: [DEPRECATED] BarBlurEffect: 'acrylic' - No longer supported and can be removed from the config.
+2026-07-16 11:54:36,792 [ERROR] [MainThread] [root/config.py:99]: The config file 'C:\Users\Velasquez\.config\yasb\config.yaml' contains validation errors. Please fix:
+bars:
+  primary_bar:
+    blur_effect:
+      rounded_corners:
+      - Extra inputs are not permitted
+      rounded_corners_type:
+      - Extra inputs are not permitted
+    widgets:
+      left:
+      - Input should be a valid list
+      center:
+      - Input should be a valid list
+      right:
+      - Input should be a valid list
+    offset:
+    - Extra inputs are not permitted
+
+2026-07-16 11:54:36,793 [ERROR] [MainThread] [root/config.py:158]: User config file could not be loaded. Exiting Application.
