@@ -3649,3 +3649,24 @@ tooltip:
   - Extra inputs are not permitted
 
 2026-07-16 11:30:54,013 [ERROR] [MainThread] [root/config.py:158]: User config file could not be loaded. Exiting Application.
+2026-07-16 11:33:17,684 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-07-16 11:33:17,684 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-07-16 11:33:17,685 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-07-16 11:33:17,720 [ERROR] [MainThread] [root/main.py:205]: Exception during application startup
+Traceback (most recent call last):
+  File "main.py", line 203, in <module>
+  File "main.py", line 100, in main
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\qasync\__init__.py", line 438, in run_until_complete
+  File "main.py", line 134, in main_async
+  File "D:\a\yasb\yasb\src\core\config.py", line 144, in get_config_and_stylesheet
+  File "D:\a\yasb\yasb\src\core\config.py", line 82, in get_config
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\yaml\__init__.py", line 125, in safe_load
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\yaml\__init__.py", line 81, in load
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\yaml\constructor.py", line 51, in get_single_data
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\yaml\constructor.py", line 60, in construct_document
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\yaml\constructor.py", line 413, in construct_yaml_map
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\yaml\constructor.py", line 218, in construct_mapping
+  File "D:\a\yasb\yasb\venv\Lib\site-packages\yaml\constructor.py", line 141, in construct_mapping
+yaml.constructor.ConstructorError: while constructing a mapping
+found unhashable key
+  in "C:\Users\Velasquez\.config\yasb\config.yaml", line 4, column 7
