@@ -54,3 +54,10 @@ QHBoxLayout {
   color: #ffffff;
   background-color: #57598d;
 }
+NotificationsWidget QLabel {
+  color: #ffffff;
+  font-size: 28px;
+  background-color: transparent;
+  padding: 4px 8px;
+  margin: 0px;
+}
