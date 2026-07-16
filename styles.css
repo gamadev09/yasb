@@ -1,19 +1,9 @@
-.yasb-bar {
-    /* background color for light style */
-    background-color: #1e1e1e;
+* {
+  color: #ffffff;
+  background-color: #1e1e1e;
 }
-.dark.yasb-bar {
-    /* background color for dark style */
-    background-color: #d20000;
-}
-.yasb-bar .label {
-    /* text color for light style */
-    color: #000000;
-}
-.dark.yasb-bar .label {
-    /* text color for dark style */
-    color: #ffffff;
-}
-.icon {
-    color: #cdd6f4;
+
+.yasb_bar {
+  background-color: #1e1e1e;
+  border-bottom: 1px solid #333333;
 }
