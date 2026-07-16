@@ -1,39 +1,35 @@
-enabled: true
-screens:
-  ['*']
-class_name: "yasb_bar"
-alignment:
-  position: "top"
-  align: "center"
-window_flags:
-  windows_app_bar: true
-  hide_on_fullscreen: false
-dimensions: 
-  {width: "100%", 
-  height: 36}
-padding:
-  {top: 5, 
-  bottom: 5, 
-  left: 5, 
-  right: 5}
-animation:
-  {enabled: false, 
-  duration: 500}
-tooltip:
-  offset: 10
-  blur_effect:
+bars:
+  primary_bar:
     enabled: true
-    acrylic: true
-    dark_mode: true
-    rounded_corners: true
-    rounded_corners_type: 5
-widgets:
-  left[
-  
-  ], 
-  center[
-  
-  ], 
-  right[
-  
-  ]
+    screens:
+      ['*']
+    class_name: "yasb_bar"
+    alignment:
+      position: "top"
+      align: "center"
+    window_flags:
+      windows_app_bar: true
+      hide_on_fullscreen: false
+    dimensions: 
+      {width: "100%", 
+      height: 36}
+    padding:
+      {top: 5, 
+      bottom: 5, 
+      left: 5, 
+      right: 5}
+    animation:
+      {enabled: false, 
+      duration: 500}
+    tooltip:
+      offset: 10
+      blur_effect:
+        enabled: true
+        acrylic: true
+        dark_mode: true
+        rounded_corners: true
+        rounded_corners_type: 5
+    widgets:
+      left:
+      center:
+      right:
