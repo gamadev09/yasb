@@ -1,0 +1,18 @@
+2026-07-16 12:07:05,421 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-07-16 12:07:05,421 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-07-16 12:07:05,422 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-07-16 12:07:05,445 [ERROR] [MainThread] [root/config.py:99]: The config file 'C:\Users\Velasquez\.config\yasb\config.yaml' contains validation errors. Please fix:
+bars:
+  primary_bar:
+    widgets:
+      center:
+        0:
+        - Input should be a valid string
+
+2026-07-16 12:07:05,446 [ERROR] [MainThread] [root/config.py:158]: User config file could not be loaded. Exiting Application.
+2026-07-16 12:07:23,545 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-07-16 12:07:23,545 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-07-16 12:07:23,546 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-07-16 12:07:23,636 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\velasquez\.config\yasb
+2026-07-16 12:07:23,636 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-07-16 12:07:24,456 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
