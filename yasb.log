@@ -74,3 +74,134 @@
 2026-07-16 13:06:20,510 [DEBUG] [Thread-3] [root/watcher.py:84]: Stylesheet modified: c:\users\velasquez\.config\yasb\styles.css
 2026-07-16 13:06:21,979 [DEBUG] [Thread-3] [root/watcher.py:84]: Stylesheet modified: c:\users\velasquez\.config\yasb\styles.css
 2026-07-16 13:06:26,354 [DEBUG] [Thread-3] [root/watcher.py:84]: Stylesheet modified: c:\users\velasquez\.config\yasb\styles.css
+2026-07-16 13:07:32,570 [DEBUG] [Thread-3] [root/watcher.py:90]: Config file modified: c:\users\velasquez\.config\yasb\config.yaml
+2026-07-16 13:07:32,577 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-07-16 13:07:32,681 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-07-16 13:07:32,682 [DEBUG] [MainThread] [cli_server/cli_server.py:210]: CLI server stopped
+2026-07-16 13:07:32,702 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-07-16 13:07:32,803 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping WindowsNotificationEventListener...
+2026-07-16 13:07:32,811 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping SystemEventListener...
+2026-07-16 13:07:32,826 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping KomorebiEventListener...
+2026-07-16 13:07:33,489 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-07-16 13:07:33,490 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-07-16 13:07:33,490 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-07-16 13:07:33,534 [INFO] [MainThread] [root/main.py:138]: Debug mode enabled.
+2026-07-16 13:07:34,073 [DEBUG] [MainThread] [root/app_bar.py:137]: Bar primary_bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.0]
+2026-07-16 13:07:34,121 [INFO] [MainThread] [root/bar_manager.py:103]: Starting KomorebiEventListener...
+2026-07-16 13:07:34,123 [INFO] [MainThread] [root/bar_manager.py:103]: Starting SystemEventListener...
+2026-07-16 13:07:34,124 [INFO] [MainThread] [root/bar_manager.py:103]: Starting WindowsNotificationEventListener...
+2026-07-16 13:07:34,126 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\velasquez\.config\yasb
+2026-07-16 13:07:34,127 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-07-16 13:07:34,552 [INFO] [Dummy-5] [root/event_listener.py:54]: Created named pipe yasb-99fc2f4b-8149-11f1-91d0-60452e21d96d
+2026-07-16 13:07:34,552 [DEBUG] [Dummy-5] [root/event_listener.py:126]: Waiting for Komorebi to subscribe to named pipe yasb-99fc2f4b-8149-11f1-91d0-60452e21d96d
+2026-07-16 13:07:34,950 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-07-16 13:07:35,109 [INFO] [Dummy-5] [root/event_listener.py:147]: Komorebi connected to named pipe: yasb-99fc2f4b-8149-11f1-91d0-60452e21d96d
+2026-07-16 13:07:41,529 [DEBUG] [Thread-3] [root/watcher.py:90]: Config file modified: c:\users\velasquez\.config\yasb\config.yaml
+2026-07-16 13:07:41,536 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-07-16 13:07:41,648 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-07-16 13:07:41,649 [DEBUG] [MainThread] [cli_server/cli_server.py:210]: CLI server stopped
+2026-07-16 13:07:41,666 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-07-16 13:07:41,742 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping KomorebiEventListener...
+2026-07-16 13:07:41,748 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping SystemEventListener...
+2026-07-16 13:07:41,753 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping WindowsNotificationEventListener...
+2026-07-16 13:07:42,554 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-07-16 13:07:42,555 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-07-16 13:07:42,556 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-07-16 13:07:42,596 [INFO] [MainThread] [root/main.py:138]: Debug mode enabled.
+2026-07-16 13:07:43,258 [DEBUG] [MainThread] [root/app_bar.py:137]: Bar primary_bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.0]
+2026-07-16 13:07:43,317 [INFO] [MainThread] [root/bar_manager.py:103]: Starting WindowsNotificationEventListener...
+2026-07-16 13:07:43,318 [INFO] [MainThread] [root/bar_manager.py:103]: Starting KomorebiEventListener...
+2026-07-16 13:07:43,318 [INFO] [MainThread] [root/bar_manager.py:103]: Starting SystemEventListener...
+2026-07-16 13:07:43,320 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\velasquez\.config\yasb
+2026-07-16 13:07:43,320 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-07-16 13:07:43,743 [INFO] [Dummy-5] [root/event_listener.py:54]: Created named pipe yasb-9f774db8-8149-11f1-8486-60452e21d96d
+2026-07-16 13:07:43,744 [DEBUG] [Dummy-5] [root/event_listener.py:126]: Waiting for Komorebi to subscribe to named pipe yasb-9f774db8-8149-11f1-8486-60452e21d96d
+2026-07-16 13:07:44,128 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-07-16 13:07:44,337 [INFO] [Dummy-5] [root/event_listener.py:147]: Komorebi connected to named pipe: yasb-9f774db8-8149-11f1-8486-60452e21d96d
+2026-07-16 13:08:59,017 [DEBUG] [Thread-3] [root/watcher.py:90]: Config file modified: c:\users\velasquez\.config\yasb\config.yaml
+2026-07-16 13:08:59,028 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-07-16 13:08:59,139 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-07-16 13:08:59,139 [DEBUG] [MainThread] [cli_server/cli_server.py:210]: CLI server stopped
+2026-07-16 13:08:59,156 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-07-16 13:08:59,243 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping WindowsNotificationEventListener...
+2026-07-16 13:08:59,254 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping KomorebiEventListener...
+2026-07-16 13:08:59,259 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping SystemEventListener...
+2026-07-16 13:09:00,288 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-07-16 13:09:00,288 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-07-16 13:09:00,289 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-07-16 13:09:00,367 [INFO] [MainThread] [root/main.py:138]: Debug mode enabled.
+2026-07-16 13:09:01,121 [DEBUG] [MainThread] [root/app_bar.py:137]: Bar primary_bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.0]
+2026-07-16 13:09:01,176 [INFO] [MainThread] [root/bar_manager.py:103]: Starting KomorebiEventListener...
+2026-07-16 13:09:01,176 [INFO] [MainThread] [root/bar_manager.py:103]: Starting WindowsNotificationEventListener...
+2026-07-16 13:09:01,177 [INFO] [MainThread] [root/bar_manager.py:103]: Starting SystemEventListener...
+2026-07-16 13:09:01,178 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\velasquez\.config\yasb
+2026-07-16 13:09:01,178 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-07-16 13:09:01,987 [INFO] [Dummy-5] [root/event_listener.py:54]: Created named pipe yasb-cddf7293-8149-11f1-b19f-60452e21d96d
+2026-07-16 13:09:01,987 [DEBUG] [Dummy-5] [root/event_listener.py:126]: Waiting for Komorebi to subscribe to named pipe yasb-cddf7293-8149-11f1-b19f-60452e21d96d
+2026-07-16 13:09:01,997 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-07-16 13:09:02,148 [INFO] [Dummy-5] [root/event_listener.py:147]: Komorebi connected to named pipe: yasb-cddf7293-8149-11f1-b19f-60452e21d96d
+2026-07-16 13:09:09,427 [DEBUG] [Thread-3] [root/watcher.py:84]: Stylesheet modified: c:\users\velasquez\.config\yasb\styles.css
+2026-07-16 13:09:35,521 [DEBUG] [Thread-3] [root/watcher.py:84]: Stylesheet modified: c:\users\velasquez\.config\yasb\styles.css
+2026-07-16 13:09:58,618 [DEBUG] [Thread-3] [root/watcher.py:84]: Stylesheet modified: c:\users\velasquez\.config\yasb\styles.css
+2026-07-16 13:10:58,933 [DEBUG] [Thread-3] [root/watcher.py:84]: Stylesheet modified: c:\users\velasquez\.config\yasb\styles.css
+2026-07-16 13:11:53,020 [DEBUG] [Thread-3] [root/watcher.py:90]: Config file modified: c:\users\velasquez\.config\yasb\config.yaml
+2026-07-16 13:11:53,026 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-07-16 13:11:53,128 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-07-16 13:11:53,128 [DEBUG] [MainThread] [cli_server/cli_server.py:210]: CLI server stopped
+2026-07-16 13:11:53,221 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-07-16 13:11:53,287 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping KomorebiEventListener...
+2026-07-16 13:11:53,292 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping WindowsNotificationEventListener...
+2026-07-16 13:11:53,296 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping SystemEventListener...
+2026-07-16 13:11:54,150 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-07-16 13:11:54,150 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-07-16 13:11:54,152 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-07-16 13:11:54,755 [INFO] [MainThread] [root/bar_manager.py:103]: Starting SystemEventListener...
+2026-07-16 13:11:54,758 [INFO] [MainThread] [root/bar_manager.py:103]: Starting WindowsNotificationEventListener...
+2026-07-16 13:11:54,759 [INFO] [MainThread] [root/bar_manager.py:103]: Starting KomorebiEventListener...
+2026-07-16 13:11:54,761 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\velasquez\.config\yasb
+2026-07-16 13:11:54,761 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-07-16 13:11:55,537 [INFO] [Dummy-5] [root/event_listener.py:54]: Created named pipe yasb-35562139-814a-11f1-8848-60452e21d96d
+2026-07-16 13:11:55,545 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-07-16 13:11:55,722 [INFO] [Dummy-5] [root/event_listener.py:147]: Komorebi connected to named pipe: yasb-35562139-814a-11f1-8848-60452e21d96d
+2026-07-16 13:12:20,808 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-07-16 13:12:20,921 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-07-16 13:12:20,946 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-07-16 13:12:21,044 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping SystemEventListener...
+2026-07-16 13:12:21,065 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping WindowsNotificationEventListener...
+2026-07-16 13:12:21,072 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping KomorebiEventListener...
+2026-07-16 13:12:21,946 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-07-16 13:12:21,948 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-07-16 13:12:21,949 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-07-16 13:12:21,994 [INFO] [MainThread] [root/main.py:138]: Debug mode enabled.
+2026-07-16 13:12:22,500 [DEBUG] [MainThread] [root/app_bar.py:137]: Bar primary_bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.0]
+2026-07-16 13:12:22,557 [INFO] [MainThread] [root/bar_manager.py:103]: Starting WindowsNotificationEventListener...
+2026-07-16 13:12:22,557 [INFO] [MainThread] [root/bar_manager.py:103]: Starting KomorebiEventListener...
+2026-07-16 13:12:22,558 [INFO] [MainThread] [root/bar_manager.py:103]: Starting SystemEventListener...
+2026-07-16 13:12:22,560 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\velasquez\.config\yasb
+2026-07-16 13:12:22,560 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-07-16 13:12:23,415 [INFO] [Dummy-5] [root/event_listener.py:54]: Created named pipe yasb-45e7d581-814a-11f1-a9f2-60452e21d96d
+2026-07-16 13:12:23,415 [DEBUG] [Dummy-5] [root/event_listener.py:126]: Waiting for Komorebi to subscribe to named pipe yasb-45e7d581-814a-11f1-a9f2-60452e21d96d
+2026-07-16 13:12:23,428 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-07-16 13:12:23,623 [INFO] [Dummy-5] [root/event_listener.py:147]: Komorebi connected to named pipe: yasb-45e7d581-814a-11f1-a9f2-60452e21d96d
+2026-07-16 13:12:49,696 [DEBUG] [Thread-3] [root/watcher.py:90]: Config file modified: c:\users\velasquez\.config\yasb\config.yaml
+2026-07-16 13:12:49,705 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-07-16 13:12:49,818 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-07-16 13:12:49,819 [DEBUG] [MainThread] [cli_server/cli_server.py:210]: CLI server stopped
+2026-07-16 13:12:49,836 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-07-16 13:12:49,913 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping WindowsNotificationEventListener...
+2026-07-16 13:12:49,933 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping KomorebiEventListener...
+2026-07-16 13:12:49,936 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping SystemEventListener...
+2026-07-16 13:12:50,812 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-07-16 13:12:50,813 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-07-16 13:12:50,813 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-07-16 13:12:50,860 [INFO] [MainThread] [root/main.py:138]: Debug mode enabled.
+2026-07-16 13:12:51,510 [DEBUG] [MainThread] [root/app_bar.py:137]: Bar primary_bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.0]
+2026-07-16 13:12:51,586 [INFO] [MainThread] [root/bar_manager.py:103]: Starting SystemEventListener...
+2026-07-16 13:12:51,586 [INFO] [MainThread] [root/bar_manager.py:103]: Starting WindowsNotificationEventListener...
+2026-07-16 13:12:51,587 [INFO] [MainThread] [root/bar_manager.py:103]: Starting KomorebiEventListener...
+2026-07-16 13:12:51,592 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\velasquez\.config\yasb
+2026-07-16 13:12:51,593 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-07-16 13:12:52,427 [INFO] [Dummy-5] [root/event_listener.py:54]: Created named pipe yasb-57356da5-814a-11f1-8af1-60452e21d96d
+2026-07-16 13:12:52,427 [DEBUG] [Dummy-5] [root/event_listener.py:126]: Waiting for Komorebi to subscribe to named pipe yasb-57356da5-814a-11f1-8af1-60452e21d96d
+2026-07-16 13:12:52,433 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-07-16 13:12:52,596 [INFO] [Dummy-5] [root/event_listener.py:147]: Komorebi connected to named pipe: yasb-57356da5-814a-11f1-8af1-60452e21d96d

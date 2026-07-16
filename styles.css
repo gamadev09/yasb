@@ -56,3 +56,14 @@ QHBoxLayout {
   color: #ffffff;
   background-color: #57598d;
 }
+.notifications {
+  font-size: 18px;
+  padding: 4px 12px;
+  min-height: 28px;
+}
+
+.notifications QLabel {
+  font-size: 18px;
+  min-width: 28px;
+  min-height: 28px;
+}
