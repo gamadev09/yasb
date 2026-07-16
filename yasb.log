@@ -1485,3 +1485,97 @@ widgets:
 2026-07-16 15:27:05,260 [DEBUG] [Thread-5] [root/watcher.py:84]: Stylesheet modified: c:\users\velasquez\.config\yasb\styles.css
 2026-07-16 15:27:10,546 [DEBUG] [Thread-5] [root/watcher.py:84]: Stylesheet modified: c:\users\velasquez\.config\yasb\styles.css
 2026-07-16 15:27:25,493 [DEBUG] [Thread-5] [root/watcher.py:84]: Stylesheet modified: c:\users\velasquez\.config\yasb\styles.css
+2026-07-16 15:28:13,741 [DEBUG] [Thread-5] [root/watcher.py:84]: Stylesheet modified: c:\users\velasquez\.config\yasb\styles.css
+2026-07-16 15:28:19,202 [DEBUG] [Thread-5] [root/watcher.py:84]: Stylesheet modified: c:\users\velasquez\.config\yasb\styles.css
+2026-07-16 15:28:20,477 [DEBUG] [Thread-5] [root/watcher.py:84]: Stylesheet modified: c:\users\velasquez\.config\yasb\styles.css
+2026-07-16 15:28:22,647 [DEBUG] [Thread-5] [root/watcher.py:84]: Stylesheet modified: c:\users\velasquez\.config\yasb\styles.css
+2026-07-16 15:28:24,284 [DEBUG] [Thread-5] [root/watcher.py:84]: Stylesheet modified: c:\users\velasquez\.config\yasb\styles.css
+2026-07-16 15:28:26,005 [DEBUG] [Thread-5] [root/watcher.py:84]: Stylesheet modified: c:\users\velasquez\.config\yasb\styles.css
+2026-07-16 15:28:30,101 [DEBUG] [Thread-5] [root/watcher.py:84]: Stylesheet modified: c:\users\velasquez\.config\yasb\styles.css
+2026-07-16 15:28:44,890 [DEBUG] [Thread-5] [root/watcher.py:84]: Stylesheet modified: c:\users\velasquez\.config\yasb\styles.css
+2026-07-16 15:29:10,456 [DEBUG] [Thread-5] [root/watcher.py:90]: Config file modified: c:\users\velasquez\.config\yasb\config.yaml
+2026-07-16 15:29:10,479 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-07-16 15:29:10,595 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-07-16 15:29:10,596 [DEBUG] [MainThread] [cli_server/cli_server.py:210]: CLI server stopped
+2026-07-16 15:29:10,616 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-07-16 15:29:10,710 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping SystemEventListener...
+2026-07-16 15:29:10,718 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping WindowsNotificationEventListener...
+2026-07-16 15:29:10,723 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping KomorebiEventListener...
+2026-07-16 15:29:11,267 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-07-16 15:29:11,268 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-07-16 15:29:11,269 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-07-16 15:29:11,302 [INFO] [MainThread] [root/main.py:138]: Debug mode enabled.
+2026-07-16 15:29:12,023 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-07-16 15:29:12,105 [DEBUG] [MainThread] [root/app_bar.py:137]: Bar primary_bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.0]
+2026-07-16 15:29:12,140 [INFO] [MainThread] [root/bar_manager.py:103]: Starting SystemEventListener...
+2026-07-16 15:29:12,141 [INFO] [MainThread] [root/bar_manager.py:103]: Starting WindowsNotificationEventListener...
+2026-07-16 15:29:12,141 [INFO] [MainThread] [root/bar_manager.py:103]: Starting KomorebiEventListener...
+2026-07-16 15:29:12,143 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\velasquez\.config\yasb
+2026-07-16 15:29:12,143 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-07-16 15:29:12,535 [INFO] [Dummy-7] [root/event_listener.py:54]: Created named pipe yasb-6332e124-815d-11f1-8b98-60452e21d96d
+2026-07-16 15:29:12,916 [DEBUG] [Dummy-7] [root/event_listener.py:126]: Waiting for Komorebi to subscribe to named pipe yasb-6332e124-815d-11f1-8b98-60452e21d96d
+2026-07-16 15:29:12,940 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-07-16 15:29:13,092 [INFO] [Dummy-7] [root/event_listener.py:147]: Komorebi connected to named pipe: yasb-6332e124-815d-11f1-8b98-60452e21d96d
+2026-07-16 15:29:25,266 [DEBUG] [Thread-5] [root/watcher.py:90]: Config file modified: c:\users\velasquez\.config\yasb\config.yaml
+2026-07-16 15:29:25,282 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-07-16 15:29:25,391 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-07-16 15:29:25,392 [DEBUG] [MainThread] [cli_server/cli_server.py:210]: CLI server stopped
+2026-07-16 15:29:25,415 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-07-16 15:29:25,497 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping SystemEventListener...
+2026-07-16 15:29:25,512 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping WindowsNotificationEventListener...
+2026-07-16 15:29:25,516 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping KomorebiEventListener...
+2026-07-16 15:29:26,030 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-07-16 15:29:26,031 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-07-16 15:29:26,032 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-07-16 15:29:26,066 [INFO] [MainThread] [root/main.py:138]: Debug mode enabled.
+2026-07-16 15:29:26,691 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-07-16 15:29:26,736 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-07-16 15:29:26,817 [DEBUG] [MainThread] [root/app_bar.py:137]: Bar primary_bar Created on Screen: \\.\DISPLAY1 [Bar Height: 32px, DPI Scale: 1.0]
+2026-07-16 15:29:26,857 [INFO] [MainThread] [root/bar_manager.py:103]: Starting WindowsNotificationEventListener...
+2026-07-16 15:29:26,858 [INFO] [MainThread] [root/bar_manager.py:103]: Starting KomorebiEventListener...
+2026-07-16 15:29:26,858 [INFO] [MainThread] [root/bar_manager.py:103]: Starting SystemEventListener...
+2026-07-16 15:29:26,860 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\velasquez\.config\yasb
+2026-07-16 15:29:26,860 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-07-16 15:29:27,630 [INFO] [Dummy-8] [root/event_listener.py:54]: Created named pipe yasb-6bf875bd-815d-11f1-89ce-60452e21d96d
+2026-07-16 15:29:27,631 [DEBUG] [Dummy-8] [root/event_listener.py:126]: Waiting for Komorebi to subscribe to named pipe yasb-6bf875bd-815d-11f1-89ce-60452e21d96d
+2026-07-16 15:29:27,653 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-07-16 15:29:27,825 [INFO] [Dummy-8] [root/event_listener.py:147]: Komorebi connected to named pipe: yasb-6bf875bd-815d-11f1-89ce-60452e21d96d
+2026-07-16 15:29:51,042 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\velasquez\.config\yasb\styles.css
+2026-07-16 15:30:39,139 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\velasquez\.config\yasb\styles.css
+2026-07-16 15:30:46,132 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\velasquez\.config\yasb\styles.css
+2026-07-16 15:30:49,606 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\velasquez\.config\yasb\styles.css
+2026-07-16 15:30:53,199 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\velasquez\.config\yasb\styles.css
+2026-07-16 15:31:20,278 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\velasquez\.config\yasb\styles.css
+2026-07-16 15:31:46,901 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\velasquez\.config\yasb\styles.css
+2026-07-16 15:31:49,564 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\velasquez\.config\yasb\styles.css
+2026-07-16 15:31:51,175 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\velasquez\.config\yasb\styles.css
+2026-07-16 15:32:02,885 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\velasquez\.config\yasb\styles.css
+2026-07-16 15:32:04,459 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\velasquez\.config\yasb\styles.css
+2026-07-16 15:32:09,198 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\velasquez\.config\yasb\styles.css
+2026-07-16 15:32:22,566 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\velasquez\.config\yasb\styles.css
+2026-07-16 15:32:27,579 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\velasquez\.config\yasb\styles.css
+2026-07-16 15:32:37,594 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\velasquez\.config\yasb\styles.css
+2026-07-16 15:32:39,281 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\velasquez\.config\yasb\styles.css
+2026-07-16 15:32:40,968 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\velasquez\.config\yasb\styles.css
+2026-07-16 15:32:44,199 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\velasquez\.config\yasb\styles.css
+2026-07-16 15:32:53,207 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\velasquez\.config\yasb\styles.css
+2026-07-16 15:32:58,883 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\velasquez\.config\yasb\styles.css
+2026-07-16 15:33:00,548 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\velasquez\.config\yasb\styles.css
+2026-07-16 15:33:03,664 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\velasquez\.config\yasb\styles.css
+2026-07-16 15:33:05,574 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\velasquez\.config\yasb\styles.css
+2026-07-16 15:33:07,161 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\velasquez\.config\yasb\styles.css
+2026-07-16 15:33:12,148 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\velasquez\.config\yasb\styles.css
+2026-07-16 15:33:25,692 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\velasquez\.config\yasb\styles.css
+2026-07-16 15:33:35,544 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\velasquez\.config\yasb\styles.css
+2026-07-16 15:33:39,668 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\velasquez\.config\yasb\styles.css
+2026-07-16 15:33:42,872 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\velasquez\.config\yasb\styles.css
+2026-07-16 15:33:47,767 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\velasquez\.config\yasb\styles.css
+2026-07-16 15:33:51,375 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\velasquez\.config\yasb\styles.css
+2026-07-16 15:33:53,769 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\velasquez\.config\yasb\styles.css
+2026-07-16 15:33:55,699 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\velasquez\.config\yasb\styles.css
+2026-07-16 15:34:25,956 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\velasquez\.config\yasb\styles.css
+2026-07-16 15:34:29,534 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\velasquez\.config\yasb\styles.css
+2026-07-16 15:34:32,606 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\velasquez\.config\yasb\styles.css
+2026-07-16 15:34:51,696 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\velasquez\.config\yasb\styles.css
+2026-07-16 15:35:04,770 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\velasquez\.config\yasb\styles.css
+2026-07-16 15:35:07,327 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\velasquez\.config\yasb\styles.css

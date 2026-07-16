@@ -29,6 +29,7 @@ bars:
       center:
         - clock
       right:
+        - microphone
         - volume
         - wifi
         - battery
@@ -59,6 +60,11 @@ widgets:
     type: yasb.clock.ClockWidget
     options:
       label: '{%a, %d %b %I:%M %p}'
+  microphone:
+    type: yasb.microphone.MicrophoneWidget
+    options:
+      label: '{icon}'
+      label_alt: '{icon}'
   volume:
     type: yasb.volume.VolumeWidget
     options:
