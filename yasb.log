@@ -3557,3 +3557,69 @@ expected '<document start>', but found '<block mapping start>'
 2026-07-16 11:14:02,275 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
 2026-07-16 11:14:02,812 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
 2026-07-16 11:14:02,813 [INFO] [Dummy-7] [root/event_listener.py:147]: Komorebi connected to named pipe: yasb-bdce4701-8139-11f1-89e6-60452e21d96d
+2026-07-16 11:18:42,035 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-07-16 11:18:42,147 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-07-16 11:18:42,157 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-07-16 11:18:42,279 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping WindowsNotificationEventListener...
+2026-07-16 11:18:42,282 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping KomorebiEventListener...
+2026-07-16 11:18:42,284 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping SystemEventListener...
+2026-07-16 11:18:42,953 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-07-16 11:18:42,953 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-07-16 11:18:42,954 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-07-16 11:18:43,615 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-07-16 11:18:43,696 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-07-16 11:18:44,493 [INFO] [MainThread] [root/bar_manager.py:103]: Starting SystemEventListener...
+2026-07-16 11:18:44,493 [INFO] [MainThread] [root/bar_manager.py:103]: Starting KomorebiEventListener...
+2026-07-16 11:18:44,494 [INFO] [MainThread] [root/bar_manager.py:103]: Starting WindowsNotificationEventListener...
+2026-07-16 11:18:44,496 [INFO] [Dummy-7] [root/event_listener.py:54]: Created named pipe yasb-6605cd64-813a-11f1-a942-60452e21d96d
+2026-07-16 11:18:44,497 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\velasquez\.config\yasb
+2026-07-16 11:18:44,497 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-07-16 11:18:45,178 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-07-16 11:18:45,179 [INFO] [Dummy-7] [root/event_listener.py:147]: Komorebi connected to named pipe: yasb-6605cd64-813a-11f1-a942-60452e21d96d
+2026-07-16 11:22:09,345 [ERROR] [MainThread] [MediaWidget/media.py:944]: Error creating square thumbnail: height and width must be > 0
+2026-07-16 11:22:11,735 [ERROR] [MainThread] [MediaWidget/media.py:944]: Error creating square thumbnail: height and width must be > 0
+2026-07-16 11:22:11,958 [ERROR] [MainThread] [MediaWidget/media.py:944]: Error creating square thumbnail: height and width must be > 0
+2026-07-16 11:22:11,997 [ERROR] [MainThread] [MediaWidget/media.py:944]: Error creating square thumbnail: height and width must be > 0
+2026-07-16 11:22:12,386 [ERROR] [MainThread] [MediaWidget/media.py:944]: Error creating square thumbnail: height and width must be > 0
+2026-07-16 11:22:12,402 [ERROR] [MainThread] [MediaWidget/media.py:944]: Error creating square thumbnail: height and width must be > 0
+2026-07-16 11:22:20,992 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-07-16 11:22:21,105 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-07-16 11:22:21,120 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-07-16 11:22:21,265 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping SystemEventListener...
+2026-07-16 11:22:21,270 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping KomorebiEventListener...
+2026-07-16 11:22:21,271 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping WindowsNotificationEventListener...
+2026-07-16 11:22:21,895 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-07-16 11:22:21,896 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-07-16 11:22:21,897 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-07-16 11:22:22,322 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\velasquez\.config\yasb
+2026-07-16 11:22:22,322 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-07-16 11:22:22,340 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-07-16 11:23:29,145 [ERROR] [MainThread] [root/config.py:99]: The config file 'C:\Users\Velasquez\.config\yasb\config.yaml' contains validation errors. Please fix:
+tooltip:
+  enabled:
+  - Extra inputs are not permitted
+  position:
+  - Extra inputs are not permitted
+  theme:
+  - Extra inputs are not permitted
+
+2026-07-16 11:25:21,572 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-07-16 11:25:21,679 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-07-16 11:25:21,693 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-07-16 11:25:22,267 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-07-16 11:25:22,267 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-07-16 11:25:22,268 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-07-16 11:25:22,303 [ERROR] [MainThread] [root/config.py:158]: User stylesheet could not be loaded. Exiting Application.
+2026-07-16 11:25:26,243 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-07-16 11:25:26,244 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-07-16 11:25:26,244 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-07-16 11:25:26,273 [ERROR] [MainThread] [root/config.py:158]: User stylesheet could not be loaded. Exiting Application.
+2026-07-16 11:26:33,068 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-07-16 11:26:33,069 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-07-16 11:26:33,069 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-07-16 11:26:33,095 [ERROR] [MainThread] [root/config.py:99]: The config file 'C:\Users\Velasquez\.config\yasb\config.yaml' contains validation errors. Please fix:
+tooltip:
+  blur_effect:
+  - Input should be a valid dictionary or instance of TooltipBlurEffect
+
+2026-07-16 11:26:33,096 [ERROR] [MainThread] [root/config.py:158]: User config file could not be loaded. Exiting Application.
