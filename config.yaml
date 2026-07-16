@@ -24,12 +24,12 @@ bars:
       dark_mode: true
     widgets:
       left:
-      - komorebi_workspaces
-      - active_window
+        - komorebi_workspaces
+        - active_window
       center:
-      - clock
+        - clock
       right:
-      - notifications
+        - notifications
 widgets:
   komorebi_workspaces:
     type: komorebi.workspaces.WorkspaceWidget
