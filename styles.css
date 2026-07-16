@@ -1,0 +1,37 @@
+* {
+  color: #ffffff;
+  background-color: lab(11.26% 0 0.5);
+  font-family: "MesloLGM Nerd Font Mono", monospace;
+  font-size: 12px;
+  margin: 0px;
+  padding: 0px;
+}
+
+.yasb_bar {
+  background-color: lab(11.26% 0 0.5);
+  border-bottom: 1px solid #333333;
+  padding: 4px 0px;
+}
+
+QLabel {
+  color: #ffffff;
+  background-color: transparent;
+  padding: 4px 8px;
+  margin: 0px;
+}
+
+QWidget {
+  background-color: transparent;
+  color: #ffffff;
+}
+
+/* Icon styling */
+QLabel[icon="true"] {
+  padding: 4px 6px;
+}
+
+/* Widgets container */
+QHBoxLayout {
+  padding: 0px;
+  margin: 0px;
+}
